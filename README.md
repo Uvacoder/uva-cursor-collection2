@@ -1,6 +1,6 @@
 # [macOS Cursors](https://mac-cursors.netlify.app)
 
-All macOS cursors in SVG, PNG, PNG@2x, plus a Sketch file for editing.
+All macOS cursors in SVG, PNG, PNG@2x, plus a Sketch file for editing
 
 Thanks to [@daleanthony](https://github.com/daleanthony) and [@mikeyclarke](https://github.com/mikeyclarke) for showing me how to get these.
 
