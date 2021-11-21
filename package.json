@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/daviddarnes/mac-cursors/issues"
   },
-  "homepage": "https://github.com/daviddarnes/mac-cursors#readme",
+  "homepage": "https://abc-mac-cursors-test.vercel.app",
   "dependencies": {
     "@11ty/eleventy": "^0.12.1"
   }
